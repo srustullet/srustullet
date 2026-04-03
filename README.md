@@ -21,18 +21,7 @@ My output is **Trust**. I use a comprehensive toolkit to audit and resolve the "
 * **AI & Logic:** AI Studio, Manus, Perplexity, Gemini, ChatGpt, Grok, LookerStudio, sheets.
 * **OS & Terminal:** Linux (Ubuntu/Crostini), Bash scripting, GitHub CLI (`gh`).
 * **Core Metrics:** Maintaining a **99.33% Integrity Rate** across 500+ deliverables and removing ~1h 45m of daily manual toil through targeted automation.
-* **Frameworks:** DISC (SC Adaptable), Gallup (Relator, Restorer, Achiever, Individualization, Learner), Enneagram (3w2).
 
----
-
-### 🧪 The Ethos
-In an automated market, I rescue the micro-details. I believe meaning is easily damaged by automation, and I intervene to restore human context within the machine.
-
-* **Structural Integrity:** Holding the line against "good enough" drift.
-* **Critical Empathy:** Hearing what the data doesn't say; advocating for cultural weight.
-* **Adaptive Resilience:** Recalibrating the compass when models drift.
-
----
 
 ### 📫 Reach Me
 Based in **Lisbon**. I am currently available for **Senior / Lead / Staff roles** that require a high-fidelity bridge between Linguistic nuance and Technical scale.
@@ -40,6 +29,3 @@ Based in **Lisbon**. I am currently available for **Senior / Lead / Staff roles*
 * **Portfolio & Labs:** [@CistellDeCodi](https://github.com/CistellDeCodi)
 * **Email:** srustullet@gmail.com
 * **Professional Profile:** [LinkedIn](https://www.linkedin.com/in/srustullet)
-
----
-*Ascendant in Taurus | Sun in Libra | Moon in Leo | 19 Oct 1984*
