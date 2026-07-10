@@ -28,4 +28,4 @@ Based in **Lisbon**. I am currently available for **Senior / Lead / Staff roles*
 
 * **Portfolio & Labs:** [@CistellDeCodi](https://github.com/CistellDeCodi)
 * **Email:** srustullet@gmail.com
-* **Professional Profile:** [LinkedIn](https://www.linkedin.com/in/srustullet)
+* **Professional Profile:** [LinkedIn](https://www.linkedin.com/in/silviarustullet/)
