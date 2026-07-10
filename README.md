@@ -26,6 +26,6 @@ My output is **Trust**. I use a comprehensive toolkit to audit and resolve the "
 ### 📫 Reach Me
 Based in **Lisbon**. I am currently available for **Senior / Lead / Staff roles** that require a high-fidelity bridge between Linguistic nuance and Technical scale.
 
-* **Portfolio & Labs:** [@srustullet](https://github.com/srustullet)
+* **Portfolio & Labs:** [Vercel](https://srustullet-portfolio.vercel.app/)
 * **Email:** srustullet@gmail.com
 * **Professional Profile:** [LinkedIn](https://www.linkedin.com/in/silviarustullet/)
